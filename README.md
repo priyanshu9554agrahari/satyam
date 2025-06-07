@@ -1,2 +1,3 @@
 # satyam
-this is my first on repository
+this is my first git repository
+auther-priyanhu agrahari
